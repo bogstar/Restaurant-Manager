@@ -1,3 +1,9 @@
+# restaurant-manager
+
+A PHP/HTML/CSS/MySQL project attempting to create an app for reserving seats in a restaurant. Project is almost complete (90%), and could be worked on to further improve it.
+
+Below is the original Readme.md (in Croatian) used while developing the web-app.
+
 # PROČITAJ ME #
 
 Ovaj PROČITAJ ME sadrži sve informacije o projektu i kako ćemo ga razraditi.
