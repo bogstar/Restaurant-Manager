@@ -1,0 +1,44 @@
+.carousel-inner > .item > img,	.carousel-inner > .item > a > img 
+{
+    width: 65%;
+    margin: auto;
+}
+body 
+{
+    background-color: #2d2c2c;
+}
+.container-fluid > .row > .col-sm-7 > .Flexible-container 
+{
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.container-fluid > .row > .col-sm-7 > .Flexible-container iframe,   
+.container-fluid > .row > .col-sm-7 > .Flexible-container object 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.btn-xlarge 
+{
+    padding: 18px 28px;
+    font-size: 30px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+.modal .modal-body 
+{
+    max-height: 450px;
+    overflow-y: auto;
+}
+.borderless tbody tr td, .borderless tbody tr th, .borderless thead tr th {
+    border: none;
+}
